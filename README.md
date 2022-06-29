@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IgorGomes22
-- 👀 I’m interested in Dev mobile
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on linguagem dart
-- 📫 How to reach me ...
+- 👋 Olá, sou o  @IgorGomes22
+- 👀 Tenho interesse em  Dev software
+- 🌱 Formado em Automação Industrial(Técnico) e stou cursando Engenharia de software,
+- 💞️ Adoro programação e area de desenvolvimento
+- 📫 Tenho conhecimento em C,C++(Arduino),Python,HTML,CSS,e estou aprendendo outras linguagens...
 
 <!---
 IgorGomes22/IgorGomes22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

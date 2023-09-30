@@ -1,5 +1,5 @@
 - 👋 Olá, sou o  @IgorGomes22
-- 🌱 Formado em Automação Industrial(Técnico), cursando Engenharia de software,
+- 🌱 Técnico em Automação Industrial, cursando Engenharia de software,
 - 💞️ Adoro programação e area de desenvolvimento
 - 📫 Linguagens C++,Ladder,Python,QT Creator...
 
